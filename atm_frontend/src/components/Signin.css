@@ -1,0 +1,13 @@
+.image{
+    background-image: url("D:\spring boot\CODSOFT\atm\atm_frontend\images\back-image.jpg");
+    min-height:100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.log-form{
+    padding-top: 112px;
+}
+.terms{
+    overflow: hidden;
+    font-size: 15px;
+}
